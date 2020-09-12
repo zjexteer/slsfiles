@@ -1,0 +1,6 @@
+base:
+  '*':
+    - docker
+    - java
+    - elk
+
